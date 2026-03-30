@@ -50,6 +50,11 @@
 
 ---
 
+## 🍴 Fork Disclaimer
+This fork is just to enable sharing an AMD GPU with LXC containers instead of the Intel iGPU.
+
+---
+
 ## 🎯 Key Features
 
 <div align="center">
